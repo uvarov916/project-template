@@ -23,3 +23,4 @@ To run the server: ```http-server -p 3000```
 2. Templates in sass files
 3. Generating production files
 4. Handling js files
+5. Handle sass error, so it doesn't stop gulp watch
